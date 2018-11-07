@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "341056093353",
+    "firebase_url": "https://authdemo-21085.firebaseio.com",
+    "project_id": "authdemo-21085",
+    "storage_bucket": "authdemo-21085.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341056093353:android:d085408de6c96ddf",
+        "android_client_info": {
+          "package_name": "com.wony.authDemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341056093353-2do7t1lbjt3n4qmpq995138jg43i8oeo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wony.authDemo",
+            "certificate_hash": "cda7347568ebb7008ed7da792db84f26c2779c78"
+          }
+        },
+        {
+          "client_id": "341056093353-imcifnro9ji0f5mg8hpmtr4ethpvuatv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwliSvlK5hbvcYpo-itGqdfgxhgqiU26M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341056093353-imcifnro9ji0f5mg8hpmtr4ethpvuatv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

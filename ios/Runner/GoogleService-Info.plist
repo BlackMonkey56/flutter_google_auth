@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>341056093353-9bqvutidi1rgnf0dkns1me82438qtvpp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.341056093353-9bqvutidi1rgnf0dkns1me82438qtvpp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAxRz9RyyZe144Ud_jOlPbTmAJyDllz1C0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>341056093353</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.wony.authDemo</string>
+	<key>PROJECT_ID</key>
+	<string>authdemo-21085</string>
+	<key>STORAGE_BUCKET</key>
+	<string>authdemo-21085.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:341056093353:ios:d085408de6c96ddf</string>
+	<key>DATABASE_URL</key>
+	<string>https://authdemo-21085.firebaseio.com</string>
+</dict>
+</plist>
